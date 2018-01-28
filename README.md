@@ -1,1 +1,1 @@
-geditapi-specs
+gedit-specs
